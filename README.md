@@ -6,26 +6,12 @@ My name is Omara Mubarik.
 
 I hope you enjoy your stay.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Let me introduce myself
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- I am currently a final year LLB student at ULAW 
+- I am also a student at Ropper's academy 
+- I enjoy coding and making projects 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
