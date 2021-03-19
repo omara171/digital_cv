@@ -30,3 +30,7 @@ I hope you enjoy your stay.
 - Arabic
 
 ```
+
+### Projects
+
+Coming soon....
