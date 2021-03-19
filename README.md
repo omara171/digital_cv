@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my digital CV
 
-You can use the [editor on GitHub](https://github.com/omara171/digital_cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+It is wonderful to see you here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Omara Mubarik.
+
+I hope you enjoy your stay.
 
 ### Markdown
 
